@@ -1,14 +1,30 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{4E18408F-2D68-3875-1CF1-1F42433B158D}") = "LowPolyGal", "Assembly-CSharp-firstpass.csproj", "{E7F2CD78-3D2C-854D-CE79-8EFD1ABB1697}"
+EndProject
+Project("{4E18408F-2D68-3875-1CF1-1F42433B158D}") = "LowPolyGal", "Assembly-CSharp.csproj", "{3B3A9506-50DC-C050-9634-5C8D7239B3AA}"
+EndProject
+Project("{4E18408F-2D68-3875-1CF1-1F42433B158D}") = "LowPolyGal", "Assembly-CSharp-Editor.csproj", "{482FF255-754A-DBB8-64B9-6BAFCA0E5274}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{E7F2CD78-3D2C-854D-CE79-8EFD1ABB1697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F2CD78-3D2C-854D-CE79-8EFD1ABB1697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F2CD78-3D2C-854D-CE79-8EFD1ABB1697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F2CD78-3D2C-854D-CE79-8EFD1ABB1697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3A9506-50DC-C050-9634-5C8D7239B3AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3A9506-50DC-C050-9634-5C8D7239B3AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3A9506-50DC-C050-9634-5C8D7239B3AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3A9506-50DC-C050-9634-5C8D7239B3AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{482FF255-754A-DBB8-64B9-6BAFCA0E5274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{482FF255-754A-DBB8-64B9-6BAFCA0E5274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{482FF255-754A-DBB8-64B9-6BAFCA0E5274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{482FF255-754A-DBB8-64B9-6BAFCA0E5274}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
